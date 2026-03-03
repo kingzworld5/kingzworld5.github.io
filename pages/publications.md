@@ -8,9 +8,7 @@
   ---
 
   ## Peer-Reviewed Journal Articles
-  
 
- <h3 class="text-primary border-bottom pb-2">2025</h3>
    
   1. Maduabuchi C., **Okoli K.**, Chigozie U. (2025). "Ml4solar: Continental 
   Solar Potential Evaluation Using Machine Learning." *SSRN*. 
