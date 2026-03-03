@@ -9,19 +9,24 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Home
+description: "Personal academic website of Kingsley Okoli"
 year: 2026
-author: ISU Cyclone
-bio:
+author: Kingsley Okoli
+bio: "Kingsley Okoli is a PhD candidate in Mechanical Engineering at Iowa
+  State University (expected 2027), advised by Dr. Mark Mba-Wright. His research
+   spans life cycle assessment (LCA), techno-economic analysis (TEA), and
+  machine learning for renewable energy and biorefinery systems. He has authored
+   12 peer-reviewed journal publications in high-impact venues including Applied
+   Energy, Journal of Cleaner Production, and Energy."
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
-email:
+image: /assets/img/Kingsley-Photo.png
+email: kingsleyokoli9@gmail.com
 github_profile:
 department:
-orcid:
-cv:
+orcid: https://orcid.org/my-orcid?orcid=0000-0001-7148-969X
+cv: /assets/img/Okoli_Kingsley_CV.pdf
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
